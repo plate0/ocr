@@ -67,7 +67,7 @@
     "electron-squirrel-startup": "1.0.0",
     "fraction.js": "4.0.12",
     "ingredient-parser": "https://github.com/plate0/ingredient-parser.git#v0.2.0",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "lodash": "4.17.11",
     "moment": "2.24.0",
     "mousetrap": "1.6.3",
